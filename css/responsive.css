@@ -585,7 +585,7 @@
 
   .pp {
     font-size: 1rem;
-    background-color: #d85252;
+    background-color: #eb42aa;
     color: #fff;
     border-radius: 4px;
     padding: 12px;
@@ -737,7 +737,7 @@
   .pp {
     align-items: center;
     font-size: 0.7rem;
-    background-color: #d85252;
+    background-color: #eb42aa;
     color: #fff;
     border-radius: 4px;
     padding: 9px;
@@ -749,7 +749,7 @@
   .tp {
     align-items: center;
     font-size: 0.7rem;
-    background-color: #d85252;
+    background-color: #eb42aa;
     color: #fff;
     border-radius: 4px;
     padding: 9px;
@@ -847,7 +847,7 @@
     gap: 0;
   }
   .animated-progress {
-    width: 250px;
+    width: 50vw;
     height: 25px;
   }
   .left-box-item > img {
